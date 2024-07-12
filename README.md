@@ -26,8 +26,6 @@ Hi, I'm Aryan Agrahari, a Full Stack Developer 🚀 from India, currently pursui
 <a href="https://www.instagram.com/aryan_agrahari_7/">
   <img align="left" alt="Aryan Agrahari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://aryan-portfolio-test.netlify.app/">
-  <img align="left" alt="Aryan Agrahari | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
 <br/>
