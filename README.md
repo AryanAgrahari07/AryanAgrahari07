@@ -13,7 +13,7 @@ Hi, I'm Aryan Agrahari, a Full Stack Developer 🚀 from India, currently pursui
 ### 👨‍💻 About :
 - 👋 Hi, I’m Aryan, a B.Tech Student at MITS, Gwalior
 - 🌱 Currently learning Full Stack Development
-- 👀 Working on `some exciting projexts`.
+- 👀 Working on `some exciting projects`.
 - 💞️ I would love to collaborate on interesting projects
 - 💬 Feel free to reach out, I'm always happy to help :)
 
