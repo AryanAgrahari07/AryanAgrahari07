@@ -18,8 +18,7 @@ const aryan = {
     currentWork: "Software Engineer @ CodeFeast",
     achievements: [
         "🏆 AIR 14 in Naukri Young Turks (500k+ participants)",
-        "⚡ 400+ DSA problems solved",
-        "📈 2000+ active users on EventX platform"
+        "⚡ 400+ DSA problems solved"
     ],
     currentlyLearning: ["Advanced System Design", "Cloud Architecture", "DevOps"],
     funFact: "I love turning coffee into code! ☕→💻"
@@ -55,8 +54,6 @@ const aryan = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="✨" width="35" /> Featured Projects
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="35" /> GitHub Analytics
 
 <div align="center">
@@ -71,8 +68,6 @@ const aryan = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanAgrahari07&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Certifications
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="🔗" width="35" /> Let's Connect
 
