@@ -19,8 +19,7 @@ const aryan = {
     achievements: [
         "🏆 AIR 14 in Naukri Young Turks (500k+ participants)",
         "⚡ 400+ DSA problems solved",
-        "📈 2000+ active users on EventX platform",
-        "🚀 70-80% bundle size optimization expert"
+        "📈 2000+ active users on EventX platform"
     ],
     currentlyLearning: ["Advanced System Design", "Cloud Architecture", "DevOps"],
     funFact: "I love turning coffee into code! ☕→💻"
@@ -58,16 +57,6 @@ const aryan = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="✨" width="35" /> Featured Projects
 
-<div align="center">
-
-| 🎯 Project | 🛠️ Tech Stack | 🌟 Highlights | 🔗 Links |
-|------------|---------------|---------------|----------|
-| **Cloud Based Data Management** | React, Node.js, Azure | Real-time financial data integration | 🏢 Enterprise |
-| **EventX Platform** | Full Stack | 2000+ active users | 🔴 [Live](https://your-link.com) |
-| **Employee Management System** | Node.js, React, Azure | 40% API optimization | 🔴 [Live](https://your-link.com) |
-
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="35" /> GitHub Analytics
 
 <div align="center">
@@ -84,17 +73,6 @@ const aryan = {
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" /> Achievements & Certifications
-
-<div align="center">
-
-| 🏆 Achievement | 🎯 Details |
-|----------------|------------|
-| **Naukri Young Turks** | AIR 14 out of 500k+ participants |
-| **DSA Master** | 400+ problems solved across platforms |
-| **Backend Development** | Coursera Certified (Node.js & Express) |
-| **Platform Builder** | EventX: 2000+ active users |
-
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="🔗" width="35" /> Let's Connect
 
